@@ -5,6 +5,7 @@ Project | Description
 [1-Pass Blur](https://github.com/XorDev/1PassBlur/wiki) | A simple, general purpose blur shader
 [Dual-Kawase Blur](https://github.com/XorDev/Dual-Kawase/wiki) | A fast blur algorithm for strong blurring
 [Voronoi Pixels](https://github.com/XorDev/GMS-Voronoi-Pixels/wiki) | An experimental effect for pixel art
+[Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) | Some fun magic fireballs
 
 # Minecraft
 If you're here for my shaderpacks, [click here](https://github.com/XorDev/Minecraft-Shaderpacks)!
