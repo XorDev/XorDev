@@ -2,6 +2,7 @@
 Here are some of my GameMaker projects:
 Project | Description
 ------------ | -------------
+[Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Realistic bokeh shader
 [1-Pass Blur](https://github.com/XorDev/1PassBlur/wiki) | A simple, general purpose blur shader
 [Dual-Kawase Blur](https://github.com/XorDev/Dual-Kawase/wiki) | A fast blur algorithm for strong blurring
 [Voronoi Pixels](https://github.com/XorDev/GMS-Voronoi-Pixels/wiki) | An experimental effect for pixel art
