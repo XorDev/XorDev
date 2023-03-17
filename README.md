@@ -8,6 +8,7 @@ Project | Description
 [Voronoi Pixels](https://github.com/XorDev/GMS-Voronoi-Pixels/wiki) | An experimental effect for pixel art
 [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) | Some fun magic fireballs
 [Basic Lighting](https://github.com/XorDev/BasicLighting) | A simple, shaderless solution for lighting
+[Shader Derivatives](https://github.com/XorDev/Shader-Derivatives) | Guide on derivative functions like dFdx
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L31FAR9)
 
