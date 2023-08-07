@@ -1,4 +1,6 @@
 # GameMaker 
+![Fire-Fun](https://camo.githubusercontent.com/b220c80c54b40f1415abaeb2ed807bf21108f22c95bd7b0726da09139875758c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4531536a466a38575141414671584d2e6a7067)
+
 Here are some of my GameMaker projects:
 Project | Description
 ------------ | -------------
@@ -13,6 +15,7 @@ Project | Description
 [GML-to-GLSL](https://github.com/XorDev/GML_Shaders) | I ported the GML math functions over to GLSL!
 [GM JFA](https://github.com/XorDev/GM_JFA) | Jump Flooding Algorithm for generating SDFs around sprites
 [GM Chromatic Aberration](https://github.com/XorDev/GM_ChromaticAberration) | A common color shift effect
+[2D Fluids](https://github.com/XorDev/2DFluids) | Metaball fluids using GM's particles
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L31FAR9)
 
