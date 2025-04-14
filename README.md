@@ -18,6 +18,3 @@ Project | Description
 [2D Fluids](https://github.com/XorDev/2DFluids) | Metaball fluids using GM's particles
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L31FAR9)
-
-# Minecraft
-If you're here for my shaderpacks, [click here](https://github.com/XorDev/Minecraft-Shaderpacks)!
